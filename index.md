@@ -1,1 +1,0 @@
-## UGent Business Informatics website

@@ -1,0 +1,205 @@
+---
+---
+
+@import "minima";
+
+@font-face{
+    font-family:'PannoTextNormal';
+    src:url("/assets/ugentpannotext-normal-web.eot");
+    src:url("/assets/ugentpannotext-normal-web.eot") format("embedded-opentype"),url("/assets/ugentpannotext-normal-web.woff") format("woff"),url("/assets/ugentpannotext-normal-web.ttf") format("truetype")
+}
+
+@font-face{
+    font-family:'PannoTextSemiBold';
+    src:url("/assets/ugentpannotext-semibold-web.eot");
+    src:url("/assets/ugentpannotext-semibold-web.eot") format("embedded-opentype"),url("/assets/ugentpannotext-semibold-web.woff") format("woff"),url("/assets/ugentpannotext-semibold-web.ttf") format("truetype")
+}
+
+@font-face{font-family:'PannoTextMedium';src:url("/assets/ugentpannotext-medium-web.eot");
+    src:url("/assets/ugentpannotext-medium-web.eot") format("embedded-opentype"),url("/assets/ugentpannotext-medium-web.woff") format("woff"),url("/assets/ugentpannotext-medium-web.ttf") format("truetype")
+}
+
+@font-face{
+    font-family:'PannoTextLight';src:url("/assets/ugentpannotext-semilight-web.eot");
+    src:url("/assets/ugentpannotext-semilight-web.eot") format("embedded-opentype"),url("/assets/ugentpannotext-semilight-web.woff") format("woff"),url("/assets/ugentpannotext-semilight-web.ttf") format("truetype")
+}
+
+// Base font size (body font-size)
+$em-base: 17px;
+$fz-default: $em-base;
+$fz-defaultplus: 18px;
+$fz-small: 14px;
+$fz-smallplus: 19px;
+$fz-medium: 20px;
+$fz-mediumplus: 22px;
+$fz-large: 40px;
+
+// Media query settings (used in when() mixin):
+$mobile-range: (0, 749px);
+$tablet-portrait-range: (750px, 991px);
+$desktop-range: (992px, 1440px);
+
+// Colors
+$white: #fff;
+$black: #202020;
+$brand-primary: #1E64C8;
+$brand-secondary: #FFD200;
+$brand-tertiary: #e9f0fa;
+$border-color: #CCCCCC;
+$border-color-light: #DDDDDD;
+$brand-warning: #fffae5;
+$brand-disabled: #B4B4B4;
+$brand-faculty1: #F1A42B;
+$brand-faculty2: #DC4E28;
+$brand-faculty3: #2D8CA8;
+$brand-faculty4: #E85E71;
+$brand-faculty5: #8BBEE8;
+$brand-faculty6: #AEB050;
+$brand-faculty7: #825491;
+$brand-faculty8: #FB7E3A;
+$brand-faculty9: #27ABAD;
+$brand-faculty10: #BE5190;
+$brand-faculty11: #71A860;
+
+
+// Component colors
+$default-text-color: $black;
+$dark-text-color: #646464;
+
+
+// Font families
+$default-font-family: 'PannoTextNormal', Arial, sans-serif;
+$semibold-font-family: 'PannoTextSemiBold', Arial, sans-serif;
+$medium-font-family: 'PannoTextMedium', Arial, sans-serif;
+$light-font-family: 'PannoTextLight', Arial, sans-serif;
+
+// Component font families
+$body-text-font-family: $light-font-family;
+$header-font-family: $medium-font-family;
+
+
+//numbers
+$maxwidth-container: 1280px;
+$maxwidth-content: 750px;
+$padding-default: 20px;
+$padding-default-mobile: 20px;
+$padding-large: 60px;
+$padding-large-mobile: 30px;
+$margin-default-horizontal: $padding-default;
+$margin-default-vertical: 30px;//43px;
+$margin-default-vertical-mobile: 25px;
+$margin-default-vertical-small: 20px;
+$margin-default-vertical-small-mobile: 22px;
+$margin-large: 60px;
+$transition-duration-default: .15s;
+$transition-ease-default: ease-in-out;
+$line-height-base: 21/17;
+$line-height-medium: 26/20;
+$line-height-medium-caps: 20/20;
+$line-height-large: 50/50;
+$grid-gutter-width: 20px;
+
+// Extra font colors
+$discreet-text-color: lighten($default-text-color, 40%);
+
+// Check icon
+$halflings-ok: "\e013";
+$check-icon: $halflings-ok;
+
+// Inpage navigation
+$zindex-inpage-nav-container: 1010;
+
+// Popovers
+$popover-bg: $brand-tertiary;
+$popover-title-bg: $brand-primary;
+$popover-arrow-color: $brand-tertiary;
+$ugent-popover-title-color: $white;
+$popover-arrow-outer-color: $border-color;
+$popover-border-color: $border-color;
+$popover-max-width: $maxwidth-content;
+
+body {
+font-family: $body-text-font-family;
+font-size: $fz-default;
+line-height: $line-height-base;
+}
+
+.site-title {
+    font-family: $header-font-family;
+    color: $brand-primary !important;
+    font-size: 50px;
+    line-height: $line-height-large;
+    margin: 13px 0;
+    width: 100%;
+}
+.site-nav {
+    width: 100%;
+    float: none;
+}
+.page-link {
+    font-family: $header-font-family;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+font-family: $header-font-family;
+margin: 10px 0;
+&:first-child {
+    margin-top: 0;
+}
+}
+
+h1, .h1,
+h2, .h2 {
+text-transform: none;
+
+.bg-primary & {
+    color: $white;
+}
+}
+
+h1, .h1 {
+color: $brand-primary;
+font-size: $fz-large;
+line-height: $line-height-large;
+margin-bottom: 13px;
+}
+h2, .h2 {
+font-size: $fz-medium;
+line-height: $line-height-medium-caps;
+}
+h3, .h3 {
+font-size: $fz-smallplus;
+line-height: $line-height-base;
+margin-bottom: 5px;
+}
+h4, .h4 {
+font-size: $fz-medium;
+line-height: $line-height-medium-caps;
+text-transform: uppercase;
+}
+h5, .h5,
+h6, .h6 {
+font-size: $fz-medium;
+line-height: $line-height-medium-caps;
+}
+
+.lead {
+font-size: $fz-default;
+font-family: $medium-font-family;
+line-height: $line-height-base;
+}
+
+strong {
+font-family: $medium-font-family;
+font-weight: normal;
+}
+
+b {
+font-family: $medium-font-family;
+font-weight: normal;
+}
