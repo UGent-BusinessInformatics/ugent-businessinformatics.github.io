@@ -4,4 +4,5 @@ title:  "We have a new site"
 date:   2022-05-02 21:20:11 +0200
 categories: website
 ---
+
 We have a new site which looks similar to the old one but should hopefully be more stable. We'll move all the content here soon.
