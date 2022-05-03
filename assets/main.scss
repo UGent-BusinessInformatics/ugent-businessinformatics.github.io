@@ -119,18 +119,24 @@ $popover-border-color: $border-color;
 $popover-max-width: $maxwidth-content;
 
 body {
-font-family: $body-text-font-family;
-font-size: $fz-default;
-line-height: $line-height-base;
+    font-family: $body-text-font-family;
+    font-size: $fz-default;
+    line-height: $line-height-base;
 }
 
+.site-head {
+    margin-top: 30px;
+}
 .site-title {
     font-family: $header-font-family;
     color: $brand-primary !important;
     font-size: 50px;
     line-height: $line-height-large;
     margin: 13px 0;
-    width: 100%;
+}
+.site-logo img {
+    float: left;
+    width: 120px;
 }
 .site-nav {
     width: 100%;
@@ -203,3 +209,118 @@ b {
 font-family: $medium-font-family;
 font-weight: normal;
 }
+
+.post-content ul,
+.post-content ol {
+  padding-left: 18px;
+
+  li {
+    margin-bottom: 8px;
+    position: relative;
+
+    a {
+      border-bottom: 1px solid transparent;
+      &:hover,
+      &:focus,
+      &.selected {
+        color: $brand-primary;
+        border-color: $brand-primary;
+      }
+    }
+  }
+}
+
+.post-content ul {
+  list-style-type: none;
+
+  li {
+    &:before {
+      content: "→";
+      font-family: $medium-font-family;
+      font-size: 16px;
+      color: inherit;
+      margin-right: 6px;
+      position: absolute;
+      top: 2px;
+      left: -18px;
+    }
+    ol > li { // No arrow for nested ol li's
+      &:before {
+        display: none;
+      }
+    }
+  }
+}
+
+.post-content ol, // Margin for nested lists (ul in ol and ol in ul)
+.post-content ul {
+  ul,
+  ol {
+    margin-top: 8px;
+    padding-left: 10px;
+  }
+}
+
+.post-content a {
+  color: $brand-primary;
+  text-decoration: none;
+  -ms-word-break: break-word;
+  word-break: break-word;
+  border-bottom: 1px solid $brand-primary;
+
+  &:hover,
+  &:focus {
+    color: $brand-primary;
+    text-decoration: none;
+    border-color: transparent;
+  }
+
+  &.btn {
+    text-decoration: none;
+  }
+
+  &.block-link {
+    text-decoration: none;
+    h3,
+    .h3 {
+      span {
+        border-bottom: 1px solid transparent;
+      }
+    }
+    &:hover,
+    &:focus {
+      h3,
+      .h3{
+        span {
+          border-color: $default-text-color;
+        }
+      }
+    }
+  }
+  h3 & {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    &:hover,
+    &:focus {
+      border-color: $default-text-color;
+    }
+  }
+
+  &[data-type='image'] {
+    border-bottom: 0;
+  }
+}
+
+.post-content dl {
+  color: $black;
+  dt {
+    font-family: $medium-font-family;
+    line-height: $line-height-base;
+  }
+  dd {
+    font-family: $light-font-family;
+    line-height: $line-height-base;
+  }
+}
+
+
