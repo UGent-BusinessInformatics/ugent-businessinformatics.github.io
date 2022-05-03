@@ -1,13 +1,13 @@
 title: UGent Business Informatics
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The department of Management Information science and Operations Management 
+  is part of the nine departments which are effective within the faculty of 
+  Economy and Business Management of Ghent University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "" # the base hostname & protocol for your site, e.g. http://exampe.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 show_excerpts: true
 
 # Build settings
