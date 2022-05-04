@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h1>Academic Staff</h1>
+
+{% assign members_ = site.members | find: "group", "Academic Staff" | sort: "order" %}
+
+{% for member in members_ %}
+{% include _member.html %}
+<br style="clear:both">
+{% endfor %}

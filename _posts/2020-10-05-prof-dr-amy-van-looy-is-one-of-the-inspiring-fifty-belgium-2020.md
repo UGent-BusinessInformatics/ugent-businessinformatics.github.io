@@ -1,11 +1,8 @@
 ---
-id: 3048200
-title: 'Prof. dr. Amy Van Looy is one of the &#8216;inspiring Fifty Belgium 2020&#8217;'
+title: 'Prof. dr. Amy Van Looy is one of the inspiring Fifty Belgium 2020'
 date: '2020-10-05T16:41:26+00:00'
 author: 'Geert Poels'
 layout: post
-guid: 'http://www.mis.ugent.be/?p=3048200'
-permalink: /prof-dr-amy-van-looy-is-one-of-the-inspiring-fifty-belgium-2020/
 categories:
     - News
 ---

@@ -1,0 +1,16 @@
+{%- if member.photo -%}
+<div class="member-photo"><img src="/uploads/{{ member.photo }}"></div>
+{%- endif %}
+<div class="member-details" style="max-width: 620px;">
+  <h2>{{ member.name }}</h2>
+  {%- if member.title -%}<p>{{ member.title }}</p>{%- endif -%}
+  <ul class="member-social-media-list">
+    {%- if member.email -%}<li><a href="mailto:{{ member.email }}">{{ member.email }}</a></li>{%- endif -%}
+    {%- if member.link -%}<li><a href="{{ member.link }}">Personal Site</a></li>{%- endif -%}
+    
+    {%- if member.github_username -%}<li><a href="https://github.com/{{ member.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+    {%- if member.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ member.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a></li>{%- endif -%}
+    {%- if member.twitter_username -%}<li><a href="https://www.twitter.com/{{ member.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
+  </ul>
+  <p>{{ member.content | markdownify }}</p>
+</div>

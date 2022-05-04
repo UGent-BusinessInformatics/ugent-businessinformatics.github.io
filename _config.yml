@@ -5,10 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   is part of the nine departments which are effective within the faculty of 
   Economy and Business Management of Ghent University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://exampe.com
+url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 show_excerpts: true
+collections:
+  - members
 
 # Build settings
 theme: minima
