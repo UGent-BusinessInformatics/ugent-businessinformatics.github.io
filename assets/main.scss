@@ -118,6 +118,18 @@ $popover-arrow-outer-color: $border-color;
 $popover-border-color: $border-color;
 $popover-max-width: $maxwidth-content;
 
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: transparent !important;
+    border: 0 !important;
+    border-radius: 5px;
+    text-align: right;
+  }
+}
+
 body {
     font-family: $body-text-font-family;
     font-size: $fz-default;
