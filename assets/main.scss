@@ -124,6 +124,11 @@ body {
     line-height: $line-height-base;
 }
 
+.member-spacing {
+  clear: both;
+  margin: 25px 0;
+  display: block;
+}
 .member-photo {
   width: 80px;
   height: 80px;
