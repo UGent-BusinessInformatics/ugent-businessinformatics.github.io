@@ -16,32 +16,35 @@ layout: default
 
     <div class="post-content">
 
-        <h1>Affiliated Members</h1>
-
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Affiliated Member'" | sort: "name" %}
+        {%- if members_.size != 0 -%}
+        <h1>Affiliated Members</h1>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
             {% endfor %}
         </ul>
-
-        <h1>Post-doctoral Researchers</h1>
+        {%- endif -%}
 
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-doctoral Researcher'" | sort: "name" %}
+        {%- if members_.size != 0 -%}
+        <h1>Post-doctoral Researchers</h1>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
             {% endfor %}
         </ul>
-
-        <h1>PhD Students</h1>
+        {%- endif -%}
 
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Student'" | sort: "name" %}
+        {%- if members_.size != 0  -%}
+        <h1>PhD Students</h1>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
             {% endfor %}
         </ul>
+        {%- endif -%}
 
     </div>
   
