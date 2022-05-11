@@ -7,4 +7,4 @@ layout: post
 
 36 students from the master Business Engineering participated in the DXC Digital Talent Masterclass.
 
-<figure class="wp-block-image size-large">[![](https://www.mis.ugent.be/wp-content/uploads/2021/05/E0FWb53XsAAL4fL.jpeg)](https://www.mis.ugent.be/wp-content/uploads/2021/05/E0FWb53XsAAL4fL.jpeg)</figure>
+![](/uploads/2021-05-06-dxc-digital-talent-masterclass-2021.jpeg)
