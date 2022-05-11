@@ -1,6 +1,6 @@
 ---
 title: 'Caise 22 organized by KULeuven LIRIS and UGent Business Informatics Research group'
-date: '2021-03-19T21:37:17+00:00'
+date: '2022-05-19T21:37:17+00:00'
 author: 'Frederik Gailly'
 layout: post
 ---
