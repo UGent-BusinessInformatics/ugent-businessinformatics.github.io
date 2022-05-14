@@ -4,9 +4,9 @@ title: Research Vision
 permalink: /research/
 ---
 
-![](/images/mis-vision.png)
+![](/images/BusinessInformatics-vision.png)
 
-The UGentMIS research vision has been translated into “Business Architecture, Analytics, and Process Management”. It consists of four interrelated research clusters:
+The UGent Business Informatics research vision has been translated into “Business Architecture, Analytics, and Process Management”. It consists of four interrelated research clusters:
 
 - Enterprise Modelling & Architecture, coordinated by Prof. dr. Poels
 - BPM – Technological perspective, coordinated by Prof. dr. Gailly
