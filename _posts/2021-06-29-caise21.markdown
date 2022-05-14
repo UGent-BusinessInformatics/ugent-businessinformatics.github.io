@@ -2,6 +2,8 @@
 title: 'Caise 2021'
 date: '2021-06-29T09:16:37+00:00'
 author: 'Frederik Gailly'
+categories: news
+excerpt_separator: <!--more-->
 layout: post
 ---
 
@@ -9,3 +11,5 @@ This week three researchers are presenting their work at [Caise 2021](https://ca
 
 - Camelia Maleki and Abdel-Jaouad Aberkane will present their Phd Project at the CAISE Doctoral Consortium
 - Thomas Derave will present his work at the main conference on Friday.
+
+<!--more-->
