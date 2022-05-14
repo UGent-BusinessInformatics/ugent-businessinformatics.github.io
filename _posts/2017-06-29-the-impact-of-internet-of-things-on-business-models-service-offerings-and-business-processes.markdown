@@ -3,6 +3,7 @@ title: 'The impact of Internet of Things on business models, service offerings a
 date: '2017-06-29T11:17:03+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

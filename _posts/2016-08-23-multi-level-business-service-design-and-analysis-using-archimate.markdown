@@ -3,6 +3,7 @@ title: 'Multi-Level Business Service Design and Analysis using ArchiMate (Matthe
 date: '2016-08-23T20:15:20+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

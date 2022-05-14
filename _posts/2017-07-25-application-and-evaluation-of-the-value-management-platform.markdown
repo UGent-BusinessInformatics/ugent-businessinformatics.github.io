@@ -3,6 +3,7 @@ title: 'Application and evaluation of the Value Management Platform (Ruben Loven
 date: '2017-07-25T09:53:20+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Description**

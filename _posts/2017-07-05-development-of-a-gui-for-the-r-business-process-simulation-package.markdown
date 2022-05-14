@@ -3,6 +3,7 @@ title: 'Development of a GUI for the R Business Process Simulation package'
 date: '2017-07-05T12:21:43+00:00'
 author: 'Frederik Gailly'
 layout: post
+categories: masterdissertations
 ---
 
 Who: Master Business Engineering + Master Business Economics

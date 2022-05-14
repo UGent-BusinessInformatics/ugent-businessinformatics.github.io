@@ -3,6 +3,7 @@ title: 'Describing the organizational strategy through the development of an int
 date: '2016-09-29T14:46:59+00:00'
 author: 'Ben Roelens'
 layout: post
+categories: masterdissertations
 ---
 
 **Wie:** 2 studenten (duomasterproef mogelijk)

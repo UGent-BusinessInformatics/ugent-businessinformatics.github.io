@@ -3,6 +3,7 @@ title: 'The impact of intelligent automation on business models, service offerin
 date: '2017-06-29T10:54:05+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

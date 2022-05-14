@@ -3,6 +3,7 @@ title: 'Process-driven Clinical Decision Support Systems (Corentin Rombaut)'
 date: '2016-09-05T20:31:33+00:00'
 author: 'Frederik Gailly'
 layout: post
+categories: masterdissertations
 ---
 
 **Who:** Corentin Rombaut **(**Master Business Engineering )  

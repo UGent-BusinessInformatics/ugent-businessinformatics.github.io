@@ -3,6 +3,7 @@ title: 'The impact of blockchain on business models, service offerings and busin
 date: '2017-06-29T11:13:35+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

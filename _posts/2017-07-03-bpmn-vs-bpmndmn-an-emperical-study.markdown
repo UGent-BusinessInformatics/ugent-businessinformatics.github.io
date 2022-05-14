@@ -3,6 +3,7 @@ title: 'BPMN vs BPMN+DMN: an empirical study'
 date: '2017-07-03T10:13:26+00:00'
 author: 'Frederik Gailly'
 layout: post
+categories: masterdissertations
 ---
 
 Who? Master Business Engineering

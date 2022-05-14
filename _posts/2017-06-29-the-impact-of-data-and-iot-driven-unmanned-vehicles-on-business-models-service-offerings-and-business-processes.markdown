@@ -3,6 +3,7 @@ title: 'The impact of data and IoT driven unmanned vehicles on business models, 
 date: '2017-06-29T10:59:15+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

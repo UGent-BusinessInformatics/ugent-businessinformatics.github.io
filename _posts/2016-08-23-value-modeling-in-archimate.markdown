@@ -3,6 +3,7 @@ title: 'Value Modeling in ArchiMate (Kathleen Nollet)'
 date: '2016-08-23T20:16:23+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

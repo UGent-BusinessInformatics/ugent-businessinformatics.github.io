@@ -3,6 +3,7 @@ title: 'Implementation of Social Network Analysis in Enterprise Architecture Mod
 date: '2016-08-23T20:14:09+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Project description**

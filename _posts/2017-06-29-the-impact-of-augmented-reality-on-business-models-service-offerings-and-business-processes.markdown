@@ -3,6 +3,7 @@ title: 'The impact of augmented reality on business models, service offerings an
 date: '2017-06-29T11:02:48+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

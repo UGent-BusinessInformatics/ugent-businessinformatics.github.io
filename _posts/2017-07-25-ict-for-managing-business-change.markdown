@@ -3,6 +3,7 @@ title: 'ICT for managing business change (Simon Geldof)'
 date: '2017-07-25T10:00:45+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Description**

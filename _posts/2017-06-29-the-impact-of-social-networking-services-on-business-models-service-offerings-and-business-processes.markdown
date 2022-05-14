@@ -3,6 +3,7 @@ title: 'The impact of social networking services on business models, service off
 date: '2017-06-29T10:24:39+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

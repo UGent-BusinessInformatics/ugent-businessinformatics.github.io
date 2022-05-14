@@ -3,6 +3,7 @@ title: 'The impact of 3D printing on business models, service offerings and busi
 date: '2017-06-29T10:08:14+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

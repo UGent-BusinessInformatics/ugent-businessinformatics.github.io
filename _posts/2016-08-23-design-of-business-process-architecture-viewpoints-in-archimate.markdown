@@ -3,6 +3,7 @@ title: 'Design of Business Process Architecture Viewpoints in ArchiMate'
 date: '2016-08-23T20:09:45+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

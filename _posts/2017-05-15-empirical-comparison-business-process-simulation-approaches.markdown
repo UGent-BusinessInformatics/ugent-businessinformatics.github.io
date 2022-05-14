@@ -3,6 +3,7 @@ title: 'Empirical Evaluation Business Process Simulation Approaches'
 date: '2017-05-15T08:26:04+00:00'
 author: 'Frederik Gailly'
 layout: post
+categories: masterdissertations
 ---
 
 Who? Master Business Engineering

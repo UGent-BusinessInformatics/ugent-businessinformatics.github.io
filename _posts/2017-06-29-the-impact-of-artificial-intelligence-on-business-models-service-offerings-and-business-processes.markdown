@@ -3,6 +3,7 @@ title: 'The impact of artificial intelligence on business models, service offeri
 date: '2017-06-29T11:06:43+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

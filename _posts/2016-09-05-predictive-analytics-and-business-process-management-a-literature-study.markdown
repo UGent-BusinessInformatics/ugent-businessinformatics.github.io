@@ -3,6 +3,7 @@ title: 'Predictive Business Analytics and Business Process Management: a literat
 date: '2016-09-05T20:21:05+00:00'
 author: 'Frederik Gailly'
 layout: post
+categories: masterdissertations
 ---
 
 Who: Yannick Arys  

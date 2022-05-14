@@ -3,6 +3,7 @@ title: 'Een overzicht van de focus op waarde binnen bedrijfsmodellen uit de acad
 date: '2016-10-19T15:35:31+00:00'
 author: 'Ben Roelens'
 layout: post
+categories: masterdissertations
 ---
 
 **Wie:** 1 student

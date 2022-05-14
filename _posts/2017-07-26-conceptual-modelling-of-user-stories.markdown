@@ -3,6 +3,7 @@ title: 'Conceptual modelling of user stories (Niels Van den Berghe)'
 date: '2017-07-26T00:35:55+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Description**

@@ -3,6 +3,7 @@ title: 'The impact of cloud technologies on business models, service offerings a
 date: '2017-06-29T10:14:22+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 **Context**

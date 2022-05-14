@@ -3,6 +3,7 @@ title: 'Internet of Things as a sustaining or disruptive technology: How can Ent
 date: '2016-08-23T20:33:37+00:00'
 author: 'Geert Poels'
 layout: post
+categories: masterdissertations
 ---
 
 This thesis investigates through a number of documented applications and case-studies whether Internet of Things (IoT) presents a sustaining or disruptive technology, and for which (types of) companies and industry sectors (e.g., Industry 4.0). The impact of IoT as sustaining/disruptive technology will be modelled and analyzed using various Enterprise Modeling techniques and associated tools (e.g., business model canvas, value delivery model/platform, Archi(Mate), …).
