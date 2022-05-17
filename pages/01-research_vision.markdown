@@ -13,7 +13,7 @@ The UGent Business Informatics research vision has been translated into “Busin
 - BPM – Organizational perspective, coordinated by Prof. dr. Van Looy
 - Business Analytics, coordinated by Prof. dr vanden Broucke
 
-Across these clusters, different themes have been identified on which (future) research may particularly focus, such as SMEs, public sector, healthcare, service sector, business-IT consultancy and disruptive technologies. Every theme has one or more expert(s) within the MIS research group.
+Across these clusters, different themes have been identified on which (future) research may particularly focus, such as SMEs, manufacturing industry, public sector, healthcare, service sector, business-IT consultancy and disruptive technologies. Every theme has one or more expert(s) within the UGent Business Informatics research group.
 
 # Enterprise Modelling & Architecture research cluster
 
