@@ -8,4 +8,5 @@ email: frederik.gailly@ugent.be
 twitter_username: fgailly
 linkedin_username: fgailly
 orcid_id: 0000-0003-0481-9745
+github_username: fgailly
 ---
