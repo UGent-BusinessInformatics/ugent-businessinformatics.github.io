@@ -9,5 +9,5 @@ layout: post
 
 In June 2022 KULeuven LIRIS and UGent Business Informatics organize the 34rd International Conference on Advanced Information Systems Engineering (Caise ’22).
 
-![CAiSE 22 Banner](/uploads/2022-05-11-caise.png)
+![CAiSE 22 Banner](/uploads/caise22.png)
 <!--more-->
