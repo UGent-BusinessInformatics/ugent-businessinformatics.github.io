@@ -1,7 +1,7 @@
 ---
 name: Steven Mertens
 group: Academic Staff
-order: 3
+order: 7
 position: Visiting Professor
 photo: member-steven-mertens.jpg
 email: steven.mertens@ugent.be
