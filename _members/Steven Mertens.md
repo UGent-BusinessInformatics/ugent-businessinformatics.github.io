@@ -2,8 +2,8 @@
 name: Steven Mertens
 group: Academic Staff
 order: 3
-position: Guest Professor
+position: Visiting Professor
 photo: member-amy-van-looy.png
-email: amy.vanlooy@ugent.be
-link: https://www.amyvanlooy.eu/
+email: steven.mertens@ugent.be
+link: https://biblio.ugent.be/person/802001681671
 ---
