@@ -1,7 +1,7 @@
 ---
 name: Michael Verdonck
 group: Academic Staff
-order: 3
+order: 6
 position: Visiting Professor
 photo: member-michael-verdonck.jpg
 email: michael.verdonck@ugent.be
