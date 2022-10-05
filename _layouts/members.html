@@ -58,7 +58,7 @@ layout: default
         
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Former Member'" | sort: "name" %}
         {%- if members_.size != 0 -%}
-        <h2>Former Member</h2>
+        <h2>Former Members</h2>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
