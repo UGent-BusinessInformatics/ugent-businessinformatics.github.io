@@ -55,6 +55,16 @@ layout: default
             {% endfor %}
         </ul>
         {%- endif -%}
+        
+        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Former Member'" | sort: "name" %}
+        {%- if members_.size != 0 -%}
+        <h1>Former Member</h1>
+        <ul>
+            {% for member in members_ %}
+            <li>{{ member.name }}</li>
+            {% endfor %}
+        </ul>
+        {%- endif -%}
 
     </div>
   
