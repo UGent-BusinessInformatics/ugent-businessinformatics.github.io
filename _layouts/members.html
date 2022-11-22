@@ -26,7 +26,7 @@ layout: default
         </ul>
         {%- endif -%}
 
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Affiliated Member'" | sort: "name" %}
+        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Affiliated Post-Doctoral Researcher'" | sort: "name" %}
         {%- if members_.size != 0 -%}
         <h2>Affiliated Members</h2>
         <ul>
@@ -36,7 +36,7 @@ layout: default
         </ul>
         {%- endif -%}
 
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-doctoral Researcher'" | sort: "name" %}
+        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-Doctoral Researcher'" | sort: "name" %}
         {%- if members_.size != 0 -%}
         <h2>Post-doctoral Researchers</h2>
         <ul>
