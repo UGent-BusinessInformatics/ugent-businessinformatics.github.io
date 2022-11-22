@@ -1,6 +1,7 @@
 ---
 name: Jan Devos
 order: 5
+position: Affiliated Professor
 group: Academic Staff
 photo: member-jan-devos.jpg
 email: jang.devos@ugent.be
