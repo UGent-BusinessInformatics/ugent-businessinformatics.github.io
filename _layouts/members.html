@@ -16,9 +16,9 @@ layout: default
 
     <div class="post-content">
         
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Lectorer'" | sort: "name" %}
+        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "name" %}
         {%- if members_.size != 0 -%}
-        <h2>Lectorers</h2>
+        <h2>Senior Lecturers</h2>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
@@ -56,9 +56,9 @@ layout: default
         </ul>
         {%- endif -%}
         
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Former Member'" | sort: "name" %}
+        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Graduate'" | sort: "name" %}
         {%- if members_.size != 0 -%}
-        <h2>Former Members</h2>
+        <h2>Former Members (PhD Graduates)</h2>
         <ul>
             {% for member in members_ %}
             <li>{{ member.name }}</li>
