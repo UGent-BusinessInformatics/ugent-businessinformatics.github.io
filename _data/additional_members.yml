@@ -1,19 +1,19 @@
 - name: Len Lemeire
-  group: Lectorer
+  group: Senior Lecturer
 - name: Ben Roelens
   group: Affiliated Post-Doctoral Researcher
 - name: Renata Petrevska
   group: Affiliated Post-Doctoral Researcher
 - name: Els Clarysse
-  group: Lectorer
+  group: Senior Lecturer
 - name: Greet Maes
-  group: Lectorer  
+  group: Senior Lecturer  
 - name: Aygun Shafagatova
-  group: Former Member
+  group: PhD Graduate
 - name: Dries Couckuyt
-  group: Former Member
+  group: PhD Graduate
 - name: Tahir Ahmad
-  group: Former Member
+  group: PhD Graduate
 - name: Tomasz Helbin
   group: PhD Student
 - name: Pooria Jafari
@@ -29,7 +29,7 @@
 - name: Abdel Aberkane
   group: PhD Student
 - name: Hossein Abroshan
-  group: Former Member
+  group: PhD Graduate
 - name: Dirk Steuperaert
   group: PhD Student
 - name: Georgios Georgiadis
