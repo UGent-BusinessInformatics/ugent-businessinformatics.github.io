@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 layout: post
 ---
 
-The 2nd International Decentralized Governance Design workshop will be organized as a workshop at the 35th International Conference on Advanced Information Systems Engineering (CAiSE23) in Zaragoza Spain on June 12, 2023. The organizers are Fadime Kaya and Jaap Gordijn (Vrije Universiteit Amsterdam), Yves Wautelet (KU Leuven) and Geert Poels (UGent).
+The 2nd International Decentralized Governance Design workshop will be organized as a workshop at the 35th International Conference on Advanced Information Systems Engineering (CAiSE23) in Zaragoza Spain on June 12, 2023. The organizers are Fadime Kaya and Jaap Gordijn (Vrije Universiteit Amsterdam), Yves Wautelet (KU Leuven), and Geert Poels (UGent).
 
-!(/uploads/dgd23.png)
 <!--more-->
