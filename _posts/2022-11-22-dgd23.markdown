@@ -1,5 +1,5 @@
 ---
-title: ‘Decentralized Governance Design (DGD) workshop at CAiSE23 organized by Vrije Universiteit Amsterdam, KU Leuven and UGent Business Informatics'
+title: Decentralized Governance Design (DGD) workshop at CAiSE23 organized by Vrije Universiteit Amsterdam, KU Leuven and UGent Business Informatics
 date: '2022-11-22T23:00:00+00:00'
 author: ‘Geert Poels’
 categories: news
