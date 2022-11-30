@@ -3,7 +3,7 @@
   <div class="member-photo"><img src="/uploads/{{ member.photo }}"></div>
   {%- endif %}
   <div class="member-details" style="max-width: 620px;">
-    <h2>{{ member.name }}</h2>
+    <h3>{{ member.name }}</h3>
     {%- if member.position -%}<p>{{ member.position }}</p>{%- endif -%}
     <ul class="member-social-media-list">
       {%- if member.email -%}<li><a href="mailto:{{ member.email }}">{{ member.email }}</a></li>{%- endif -%}
