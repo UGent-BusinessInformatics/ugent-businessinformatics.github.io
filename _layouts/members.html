@@ -7,7 +7,7 @@ layout: default
       <h1 class="post-title">{{ page.title | escape }}</h1>
     </header>
   
-    <h2>Academic Staff</h2>
+    <h1>Academic Staff</h1>
 
     {% assign members_ = site.members | where_exp: "m", "m.group == 'Academic Staff'" | sort: "order" %}
     {% for member in members_ %}
