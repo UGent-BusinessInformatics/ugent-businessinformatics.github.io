@@ -1,6 +1,8 @@
 <div class="member-content">
   {%- if member.photo -%}
   <div class="member-photo"><img src="/uploads/{{ member.photo }}"></div>
+  {%- else -%}
+  <div class="member-photo"><img src="/uploads/avatar.png"></div>
   {%- endif %}
   <div class="member-details" style="max-width: 620px;">
     <h3>{{ member.name }}</h3>
