@@ -16,8 +16,8 @@ layout: default
     
 
     {% assign members_ = site.members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "order" %}
-    <h2>Affiliated Senior Lecturers</h2>
     {%- if members_.size != 0  -%}
+    <h2>Affiliated Senior Lecturers</h2>
     {% for member in members_ %}
     {% include _member.html %}
     {% endfor %}
