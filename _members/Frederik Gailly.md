@@ -1,5 +1,5 @@
 ---
-name: Frederik gailly
+name: Frederik Gailly
 group: Academic Staff
 order: 2
 position: Associate Professor
