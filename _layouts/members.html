@@ -56,6 +56,11 @@ layout: default
         </ul>
         {%- endif -%}
         
+        {% assign members_ = site.members | where_exp: "m", "m.group == 'PhD Student'" | sort: "order" %}
+        {% for member in members_ %}
+        {% include _member.html %}
+        {% endfor %}
+        
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Graduate'" | sort: "name" %}
         {%- if members_.size != 0 -%}
         <h2>Former Members (PhD Graduates)</h2>
