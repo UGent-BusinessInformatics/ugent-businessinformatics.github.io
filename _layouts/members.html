@@ -13,6 +13,13 @@ layout: default
     {% for member in members_ %}
     {% include _member.html %}
     {% endfor %}
+    
+    <h2>Affiliated Senior Lecturers</h2>
+
+    {% assign members_ = site.members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "order" %}
+    {% for member in members_ %}
+    {% include _member.html %}
+    {% endfor %}
 
     <div class="post-content">
         
