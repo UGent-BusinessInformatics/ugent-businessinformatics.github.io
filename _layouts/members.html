@@ -15,81 +15,81 @@ layout: default
     {% endfor %}
     
 
+    <h2>Affiliated Senior Lecturers</h2>
     {% assign members_ = site.members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "order" %}
     {%- if members_.size != 0  -%}
-    <h2>Affiliated Senior Lecturers</h2>
     {% for member in members_ %}
     {% include _member.html %}
     {% endfor %}
     {%- endif -%}
     
+    {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "name" %}
+        {%- if members_.size != 0 -%}
+        <ul>
+            {% for member in members_ %}
+            <li>{{ member.name }}</li>
+            {% endfor %}
+        </ul>
+        {%- endif -%}
+    
+    <h2>Affiliated Post-Doctoral Researchers</h2>
     {% assign members_ = site.members | where_exp: "m", "m.group == 'Affiliated Post-Doctoral Researcher'" | sort: "name" %}
     {%- if members_.size != 0  -%}
-    <h2>Affiliated Post-Doctoral Researchers</h2>
     {% for member in members_ %}
         {% include _member.html %}
     {% endfor %}
     {%- endif -%}
+    
+     {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Affiliated Post-Doctoral Researcher'" | sort: "name" %}
+        {%- if members_.size != 0 -%}
+        <ul>
+            {% for member in members_ %}
+            <li>{{ member.name }}</li>
+            {% endfor %}
+        </ul>
+        {%- endif -%}
+    
+    <h2>Post-doctoral Researchers</h2>
+    {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-Doctoral Researcher'" | sort: "name" %}
+    {%- if members_.size != 0 -%}
+    {% for member in members_ %}
+        {% include _member.html %}
+    {% endfor %}
+    {%- endif -%}
+    
     
     {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-Doctoral Researcher'" | sort: "name" %}
     {%- if members_.size != 0 -%}
-    <h2>Post-doctoral Researchers</h2>
+        <ul>
+            {% for member in members_ %}
+            <li>{{ member.name }}</li>
+            {% endfor %}
+        </ul>
+        {%- endif -%}
+    
+     <h2>Doctoral Researchers</h2>
+    {% assign members_ = site.members | where_exp: "m", "m.group == 'PhD Student'" | sort: "name" %}
+    {%- if members_.size != 0  -%}
+   
     {% for member in members_ %}
         {% include _member.html %}
     {% endfor %}
     {%- endif -%}
     
-    {% assign members_ = site.members | where_exp: "m", "m.group == 'PhD Student'" | sort: "name" %}
-    {%- if members_.size != 0  -%}
-    <h2>Doctoral Researchers</h2>
-    {% for member in members_ %}
-        {% include _member.html %}
-    {% endfor %}
-    {%- endif -%}
+    {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Student'" | sort: "name" %}
+        {%- if members_.size != 0  -%}
+        <ul>
+            {% for member in members_ %}
+            <li>{{ member.name }}</li>
+            {% endfor %}
+        </ul>
+        {%- endif -%}
     
     
 
     <div class="member-content">
         
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Senior Lecturer'" | sort: "name" %}
-        {%- if members_.size != 0 -%}
-        <h2>Affiliated Senior Lecturers</h2>
-        <ul>
-            {% for member in members_ %}
-            <li>{{ member.name }}</li>
-            {% endfor %}
-        </ul>
-        {%- endif -%}
-
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Affiliated Post-Doctoral Researcher'" | sort: "name" %}
-        {%- if members_.size != 0 -%}
-        <h2>Affiliated Post-Doctoral Researchers</h2>
-        <ul>
-            {% for member in members_ %}
-            <li>{{ member.name }}</li>
-            {% endfor %}
-        </ul>
-        {%- endif -%}
-
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'Post-Doctoral Researcher'" | sort: "name" %}
-        {%- if members_.size != 0 -%}
-        <h2>Post-doctoral Researchers</h2>
-        <ul>
-            {% for member in members_ %}
-            <li>{{ member.name }}</li>
-            {% endfor %}
-        </ul>
-        {%- endif -%}
-
-        {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Student'" | sort: "name" %}
-        {%- if members_.size != 0  -%}
-        <h2>Doctoral Researchers</h2>
-        <ul>
-            {% for member in members_ %}
-            <li>{{ member.name }}</li>
-            {% endfor %}
-        </ul>
-        {%- endif -%}
+       
         
         {% assign members_ = site.data.additional_members | where_exp: "m", "m.group == 'PhD Graduate'" | sort: "name" %}
         {%- if members_.size != 0 -%}
