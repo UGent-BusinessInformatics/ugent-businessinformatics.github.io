@@ -7,5 +7,4 @@ photo: foto.jpg
 email: geert.poels@ugent.be
 orcid_id: 0000-0001-9247-6150
 # link: https://users.ugent.be/~gpoels
-
 ---
