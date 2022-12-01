@@ -1,6 +1,6 @@
 ---
 name: Frédéric Pattyn
-group: Doctoral Researchers
+group: PhD Student
 order: 2
 position: Doctoral Researcher
 photo: FredericPattyn.jfif
