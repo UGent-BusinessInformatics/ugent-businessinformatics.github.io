@@ -47,8 +47,8 @@
 #   group: PhD Student
 - name: Camelia Maleki
   group: PhD Student
-- name: Abdel Aberkane
-  group: PhD Student
+# - name: Abdel Aberkane
+#   group: PhD Student
 - name: Hossein Abroshan
   group: PhD Graduate
 - name: Dirk Steuperaert
