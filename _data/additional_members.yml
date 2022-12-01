@@ -1,3 +1,20 @@
+# Staff list UGent Business Informatics
+# - name: Geert Poels
+#   group: Academic Staff
+# - name: Frederik Gailly
+#   group: Academic Staff
+# - name: Amy Van Looy
+#   group: Academic Staff
+# - name: Seppe vanden Broucke
+#   group: Academic Staff
+# - name: Jan Devos
+#   group: Academic Staff
+# - name: Michaël Verdonck
+#   group: Academic Staff
+# - name: Steven Mertens
+#   group: Academic Staff
+# - name: Arne Buchwald
+#   group: Academic Staff
 - name: Len Lemeire
   group: Senior Lecturer
 - name: Ben Roelens
@@ -22,6 +39,10 @@
   group: PhD Student
 - name: Joklan Goni
   group: PhD Student
+# Ik vind het handig om dit bestand als ons personeelsbestand te gebruiken.
+# Thomas heeft zijn profiel in een .md file geplaatst.
+# Om hem niet dubbel te tonen heb ik zijn lijntjes hier als commentaar geplaatst.
+# Geen mooie oplossing natuurlijk..
 # - name: Thomas Derave
 #   group: PhD Student
 - name: Camelia Maleki
