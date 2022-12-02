@@ -3,7 +3,7 @@ name: Frederik Gailly
 group: Academic Staff
 order: 2
 position: Associate Professor
-photo: member-frederik-gailly.jpg
+photo: fgailly.png
 email: frederik.gailly@ugent.be
 twitter_username: fgailly
 linkedin_username: fgailly
