@@ -17,14 +17,16 @@
 #   group: Academic Staff
 - name: Len Lemeire
   group: Senior Lecturer
-- name: Ben Roelens
-  group: Affiliated Post-Doctoral Researcher
+# - name: Ben Roelens
+#   group: Affiliated Post-Doctoral Researcher
 - name: Renata Petrevska
   group: Affiliated Post-Doctoral Researcher
 # - name: Els Clarysse
 #   group: Senior Lecturer
 # - name: Greet Maes
-#   group: Senior Lecturer  
+#   group: Senior Lecturer 
+# - name: Tahir Ahmad
+#   group: Affiliated Post-Doctoral Researcher
 - name: Aygun Shafagatova
   group: PhD Graduate
 - name: Dries Couckuyt
