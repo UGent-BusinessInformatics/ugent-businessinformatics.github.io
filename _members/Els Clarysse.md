@@ -1,6 +1,6 @@
 ---
 name: Els Clarysse
-group: Affiliated Senior Lecturer
+group: Senior Lecturer
 order: 1
 position: Senior Lecturer
 photo: els.jpg
