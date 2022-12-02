@@ -1,8 +1,8 @@
 ---
 name: Ben Roelens
-group: Affiliated Post-doctoral Researcher
+group: Affiliated Post-Doctoral Researcher
 order: 1
-position: Affiliated Post-doctoral Researcher
+position: Affiliated Post-Doctoral Researcher
 photo: BenRoelens1 (Large).jpg
 email: ben.roelens@ugent.be
 linkedin_username: ben-roelens-29082974
