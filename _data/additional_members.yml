@@ -53,8 +53,8 @@
   group: PhD Graduate
 - name: Dirk Steuperaert
   group: PhD Student
-- name: Georgios Georgiadis
-  group: PhD Student
+# - name: Georgios Georgiadis
+#  group: PhD Student
 # - name: Abhimanyu Gupta
 #   group: PhD Student
 - name: Anis Amna
