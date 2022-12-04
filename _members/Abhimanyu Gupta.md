@@ -1,6 +1,6 @@
 ---
 name: Abhimanyu Gupta
-group: Doctoral Researcher
+group: PhD Student
 order: 4
 position: Doctoral Researcher
 photo: member-abhimanyu-gupta.png
