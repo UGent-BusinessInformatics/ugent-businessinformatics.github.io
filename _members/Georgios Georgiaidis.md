@@ -2,7 +2,6 @@
 name: Georgios Georgiadis
 group: Doctoral Researcher
 order: 3
-position: Visiting Professor
 email:georgios.georgiadis@ugent.be
 linkedin_username: georggr
 twitter_username: georggr
