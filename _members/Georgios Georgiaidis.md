@@ -1,6 +1,6 @@
 ---
 name: Georgios Georgiadis
-group: Doctoral Researcher
+group: Doctoral Researchers
 order: 3
 email: georgios.georgiadis@ugent.be
 linkedin_username: georggr
