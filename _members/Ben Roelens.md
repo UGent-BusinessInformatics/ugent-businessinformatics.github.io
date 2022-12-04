@@ -2,7 +2,7 @@
 name: Ben Roelens
 group: Affiliated Post-Doctoral Researcher
 order: 2
-position: Associate Professor at Open Universiteit (Netherlands)
+position: Assistant Professor at Open Universiteit (Netherlands)
 photo: BenRoelens1 (Large).jpg
 email: ben.roelens@ugent.be
 linkedin_username: ben-roelens-29082974
