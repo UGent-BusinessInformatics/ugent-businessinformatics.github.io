@@ -55,8 +55,8 @@
   group: PhD Student
 - name: Georgios Georgiadis
   group: PhD Student
-- name: Abhimanyu Gupta
-  group: PhD Student
+# - name: Abhimanyu Gupta
+#   group: PhD Student
 - name: Anis Amna
   group: PhD Student
 - name: Jonas Van Riel
