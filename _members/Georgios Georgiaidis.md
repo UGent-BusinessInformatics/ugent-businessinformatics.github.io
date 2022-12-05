@@ -5,7 +5,6 @@ order: 3
 email: georgios.georgiadis@ugent.be
 position: Doctoral Researcher
 photo: member-georgios-georgiadis.jpg
-linkedin_username: georggr
 twitter_username: georggr
 orcid_id: 0000-0003-0147-9167
 link: https://entarchitecture.eu/
