@@ -59,8 +59,8 @@
 #   group: PhD Student
 - name: Anis Amna
   group: PhD Student
-- name: Jonas Van Riel
-  group: PhD Student
+# - name: Jonas Van Riel
+#   group: PhD Student
 - name: Yameng Guo
   group: PhD Student
 - name: Simin Maleki
