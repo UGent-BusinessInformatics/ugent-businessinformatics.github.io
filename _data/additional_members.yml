@@ -35,8 +35,8 @@
   group: PhD Student
 - name: Pooria Jafari
   group: PhD Student
-- name: Steve Ahouanmenou
-  group: PhD Student
+# - name: Steve Ahouanmenou
+#   group: PhD Student
 - name: Joklan Goni
   group: PhD Student
 # Ik vind het handig om dit bestand als ons personeelsbestand te gebruiken.
