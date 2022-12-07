@@ -8,22 +8,24 @@ permalink: /research/
 
 The UGent Business Informatics research vision has been translated into “Business Architecture, Analytics, and Process Management”. It consists of four interrelated research clusters:
 
-- Enterprise Modelling & Architecture, coordinated by Prof. dr. Poels
+- EMEA - Enterprise Modelling, Engineering, and Architecture, coordinated by Prof. dr. Poels
 - BPM – Technological perspective, coordinated by Prof. dr. Gailly
 - BPM – Organizational perspective, coordinated by Prof. dr. Van Looy
 - Business Analytics, coordinated by Prof. dr vanden Broucke
 
 Across these clusters, different themes have been identified on which (future) research may particularly focus, such as SMEs, manufacturing industry, public sector, healthcare, service sector, business-IT consultancy and disruptive technologies. Every theme has one or more expert(s) within the UGent Business Informatics research group.
 
-# Enterprise Modelling & Architecture research cluster
+# Enterprise Modelling, Engineering, and Architecture research cluster
 
 > How to ensure that digital technologies deliver value?
 
-Enterprise Modelling (EM) is the process of building models of whole or part of an enterprise with process/data/other models and/or new ontologies. It is based on knowledge about the enterprise, including previous/reference models as well as domain ontologies using model representation languages.
+Enterprise Modelling (EM) is the practice of building models of an enterprise (or wholes/parts of enterprises) to gain insights on structures, data/information/knowledge, processes, goals, strategies, business models, operating models, value streams, business capabilities, services, resources, business ecosystem context, technology, etc., for analysing the current situation, predicting/simulating future situations, and designing a desired situation.
 
-Enterprise Architecture (EA) is a discipline within Business Informatics that studies the joint design, implementation and management of an organization’s business, data, application and ICT infrastructures. Key objectives of EA are enterprise coherence, strategic alignment and the functional integration of all component architectures (i.e., business/IT alignment).
+Enterprise Engeering (EE) is the engineering of the enterprise based on the insights gained from enterprise modelling. EE is all about translating these insights into actions.
 
-This research cluster investigates the conceptualization, representation, visualization and analysis of business architecture components in relation to the other enterprise architecture components. The focus of the research can be one or more of the following: goals, strategic plans, business models, value models, capabilities, business services, business processes, etc. Through investigating the modeling of these concepts we aim at improving the understanding, communication and design of an organization’s business architecture and supporting systems. Pertinent research questions relate to issues of goal satisfaction and strategic fit, value delivery, and capability-oriented thinking. Past and current research includes the conceptualization of business services and service systems, decision-support for value-driven strategic sourcing, the design of personalized information flows for tactical managers, and the strategic fit of business process architectures.
+Enterprise Architecture (EA) studies the joint design, implementation, evolution, and management of an organization’s business, data, application and ICT infrastructures. Key objectives of EA are enterprise coherence, strategic alignment and value creation. EA builds on EM and EE.
+
+The EMEA research cluster investigates the conceptualization, representation, visualization and analysis of business architecture components in relation to the other enterprise architecture components. The focus of the research can be one or more of the following: goals, strategic plans, business models, value models, capabilities, business services, business processes, etc. Through investigating the modeling of these concepts we aim at improving the understanding, communication and design of an organization’s business architecture and supporting systems. Pertinent research questions relate to issues of goal satisfaction and strategic fit, value delivery, and capability-oriented thinking. Past and current research includes the conceptualization of business services and service systems, decision-support for value-driven strategic sourcing, the design of personalized information flows for tactical managers, and the strategic fit of business process architectures.
 
 The main application fields are SMEs and the Manufacturing Industry (Flanders Make), which require specific EA solutions, and the business/ICT consultancy sector, which requires analytical decision support for the creation of digital enterprises exploiting opportunities offered by (potentially) disruptive information and communication technologies. This research cluster further focuses on fundamental research questions related to its primary research method, conceptual modeling, with specific attention for quality and efficiency issues (e.g., investigating the mechanisms and benefits of pattern-based modeling).
 
