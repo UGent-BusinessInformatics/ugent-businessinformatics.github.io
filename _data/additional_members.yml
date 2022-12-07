@@ -37,8 +37,8 @@
 #   group: PhD Student
 # - name: Steve Ahouanmenou
 #   group: PhD Student
-- name: Joklan Goni
-  group: PhD Student
+# - name: Joklan Goni
+#   group: PhD Student
 # Ik vind het handig om dit bestand als ons personeelsbestand te gebruiken.
 # Thomas heeft zijn profiel in een .md file geplaatst.
 # Om hem niet dubbel te tonen heb ik zijn lijntjes hier als commentaar geplaatst.
