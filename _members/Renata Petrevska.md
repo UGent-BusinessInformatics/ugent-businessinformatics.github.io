@@ -2,7 +2,7 @@
 name: Renata Petrevska
 group: Affiliated Post-Doctoral Researcher
 order: 1
-position: Assistant Professor at UKLO (North-Macedonia)
+position: Assistant Professor at UKLO (North Macedonia)
 photo: Renata.png
 email: renata.petrevskanechkoska@ugent.be
 linkedin_username: renata-petrevska-nechkoska-4691362a
