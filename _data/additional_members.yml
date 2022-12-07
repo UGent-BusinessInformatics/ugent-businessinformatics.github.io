@@ -33,8 +33,8 @@
   group: PhD Graduate
 - name: Tomasz Helbin
   group: PhD Student
-- name: Pooria Jafari
-  group: PhD Student
+# - name: Pooria Jafari
+#   group: PhD Student
 # - name: Steve Ahouanmenou
 #   group: PhD Student
 - name: Joklan Goni
