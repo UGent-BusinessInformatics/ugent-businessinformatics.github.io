@@ -51,8 +51,8 @@
 #   group: PhD Student
 - name: Hossein Abroshan
   group: PhD Graduate
-- name: Dirk Steuperaert
-  group: PhD Student
+# - name: Dirk Steuperaert
+#   group: PhD Student
 # - name: Georgios Georgiadis
 #  group: PhD Student
 # - name: Abhimanyu Gupta
