@@ -31,8 +31,8 @@
   group: PhD Graduate
 - name: Dries Couckuyt
   group: PhD Graduate
-- name: Tomasz Helbin
-  group: PhD Student
+# - name: Tomasz Helbin
+#   group: PhD Student
 # - name: Pooria Jafari
 #   group: PhD Student
 # - name: Steve Ahouanmenou
@@ -45,8 +45,8 @@
 # Geen mooie oplossing natuurlijk..
 # - name: Thomas Derave
 #   group: PhD Student
-- name: Camelia Maleki
-  group: PhD Student
+# - name: Camelia Maleki
+#   group: PhD Student
 # - name: Abdel Aberkane
 #   group: PhD Student
 - name: Hossein Abroshan
@@ -63,8 +63,8 @@
 #   group: PhD Student
 # - name: Yameng Guo
 #   group: PhD Student
-- name: Simin Maleki
-  group: PhD Student
+# - name: Simin Maleki
+#   group: PhD Student
 # - name: Frédéric Pattyn
 #   group: PhD Student
 - name: Wim Laurier
