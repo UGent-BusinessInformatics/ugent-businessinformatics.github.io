@@ -1,8 +1,8 @@
 ---
 name: Greet Maes
-group: Senior Lecturer
+group: Lector
 order: 2
-position: Senior Lecturer
+position: Senior Lector
 photo: greet.jpg
 email: greet.maes@ugent.be
 ---
