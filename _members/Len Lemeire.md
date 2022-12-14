@@ -1,8 +1,8 @@
 ---
 name: Len Lemeire
-group: Senior Lecturer
+group: Lector
 order: 3
-position: Senior Lecturer
+position: Senior Lector
 photo: member-len-lemeire.png
 email: len.lemeire@ugent.be
 ---
