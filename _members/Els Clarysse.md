@@ -1,8 +1,8 @@
 ---
 name: Els Clarysse
-group: Senior Lecturer
+group: Lector
 order: 1
-position: Senior Lecturer
+position: Senior Lector
 photo: els.jpg
 email: els.clarysse@ugent.be
 ---
