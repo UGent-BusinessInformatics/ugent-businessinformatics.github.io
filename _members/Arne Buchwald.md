@@ -5,4 +5,6 @@ order: 8
 position: Visiting Professor, Vlerick Business School
 photo: 
 email: arne.buchwald@ugent.be
+linkedin_username: arnebuchwald
+orcid_id: 0000-0002-8234-6464
 ---
