@@ -1,8 +1,8 @@
 title: UGent Business Informatics
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The UGent Business Informatics research group is part of the department of Business Informatics and Operations Management 
-  within the faculty of Economics and Business Management of Ghent University.
+  The UGent Business Informatics research group is part of the Department of Business Informatics and Operations Management 
+  within the Faculty of Economics and Business Administration of Ghent University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
