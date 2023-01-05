@@ -1,7 +1,7 @@
 ---
 name: Arne Buchwald
 group: Academic Staff
-order: 8
+order: 6
 position: Visiting Professor, Vlerick Business School
 photo: member-arne-buchwald.jpg
 email: arne.buchwald@ugent.be
