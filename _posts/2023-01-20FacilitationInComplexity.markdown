@@ -1,6 +1,6 @@
 ---
 title: Facilitation in Complexity. From Creation to Co-creation, from Dreaming to Co-dreaming, from Evolution to Co-evolution
-date: '2023-01-20T00:00:00+00:00'
+date: '2022-12-31T00:00:00+00:00'
 author: ‘Geert Poels’
 categories: news
 excerpt_separator: <!--more-->
