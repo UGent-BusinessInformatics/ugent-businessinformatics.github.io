@@ -1,1 +1,13 @@
+---
+title: Keynote at ISD'23, Lisbon, 30 August - 1 September 2023
+date: '2023-04-21T00:00:00+00:00'
+author: ‘Geert Poels’
+categories: news
+excerpt_separator: <!--more-->
+layout: post
+---
 
+UGent Business Informatics professor Geert Poels will be a keynote speaker at the 31st International Conference on Information Systems Development ([ISD 2023](https://isd2023.inesc-id.pt)). 
+
+![](/uploads/FacilitationInComplexity.png)
+<!--more-->
