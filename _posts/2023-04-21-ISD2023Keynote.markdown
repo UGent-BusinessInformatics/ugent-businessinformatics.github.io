@@ -9,5 +9,5 @@ layout: post
 
 UGent Business Informatics professor Geert Poels will be a keynote speaker at the 31st International Conference on Information Systems Development ([ISD 2023](https://isd2023.inesc-id.pt)). 
 
-![](/uploads/FacilitationInComplexity.png)
+![](/uploads/KeynoteISD2023.png)
 <!--more-->
