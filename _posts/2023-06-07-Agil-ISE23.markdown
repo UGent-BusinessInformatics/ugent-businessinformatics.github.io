@@ -1,6 +1,6 @@
 ---
 title: 2nd International Workshop on Agile Methods for Information Systems Engineering (Agil-ISE23) at CAiSE23 organized by Saint Louis University (USA), KU Leuven and UGent Business Informatics
-date: '2023-06-07T19:00:00+00:00'
+date: '2023-06-07T00:00:00+00:00'
 author: ‘Geert Poels’
 categories: news
 excerpt_separator: <!--more-->
