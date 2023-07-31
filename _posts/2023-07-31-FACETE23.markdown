@@ -1,6 +1,6 @@
 ---
 title: International Workshop on the Foundations and Applications of Capabilities in Enterprises, Transformations, and E(SG) Initiatives (FACETE 2023) at PoEM 2023 organised by UGent Business Informatics (Jonas Van Riel, Geert Poels) and Twente University (Rodrigo Fernandes Calhau, Tiago Prince Sales)
-date: '2023-07-31T00:00:00+00:00'
+date: '2023-07-31T00:00:01+00:00'
 author: ‘Geert Poels’
 categories: news
 excerpt_separator: <!--more-->
