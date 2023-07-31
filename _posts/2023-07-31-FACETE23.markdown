@@ -1,0 +1,13 @@
+---
+title: International Workshop on the Foundations and Applications of Capabilities in Enterprises, Transformations, and E(SG) Initiatives (FACETE 2023) at PoEM 2023 organised by UGent Business Informatics (Jonas Van Riel, Geert Poels) and Twente University (Rodrigo Fernandes Calhau, Tiago Prince Sales)
+date: '2023-07-31T00:00:00+00:00'
+author: ‘Geert Poels’
+categories: news
+excerpt_separator: <!--more-->
+layout: post
+---
+
+The International Workshop on the Foundations and Applications of Capabilities in Enterprises, Transformations and ESG Initiatives is co-located with the 16th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM 2023) in Vienna, Austria, and will be held on November 29, 2023. See [FACETE23]([https://www.facete.org.html]) for the workshop website.
+
+![](/uploads/FACETE23.png)
+<!--more-->
