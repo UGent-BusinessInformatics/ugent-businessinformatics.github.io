@@ -1,7 +1,7 @@
 ---
 name: Pedro Paulo Favato Barcelos 
 group: Post-Doctoral Researcher
-order: 2
+order: 1
 position: Post-doctoral Researcher
 photo: barcelos_social_image.jpg
 email: 
