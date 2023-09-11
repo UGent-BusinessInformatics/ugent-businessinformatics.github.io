@@ -1,8 +1,8 @@
 ---
 name: Abhimanyu Gupta
-group: PhD Student
-order: 4
-position: Doctoral Researcher
+group: Affiliated Post-Doctoral Researcher
+order: 1
+position: Assistant Professor at Saint-Louis University (USA)
 photo: member-abhimanyu-gupta.png
 email: abhimanyu.gupta@ugent.be
 linkedin_username: abhimanyu-gupta
