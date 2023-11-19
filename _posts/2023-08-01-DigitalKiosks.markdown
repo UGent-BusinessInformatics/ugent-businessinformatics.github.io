@@ -1,7 +1,7 @@
 ---
 title: UGent Business Informatics participates in the Digital Kiosks network
 date: '2023-07-31T12:00:00+00:00'
-author: ‘Geert Poels’
+author: 'Geert Poels'
 categories: news
 excerpt_separator: <!--more-->
 layout: post
