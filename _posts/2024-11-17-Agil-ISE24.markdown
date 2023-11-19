@@ -1,6 +1,6 @@
 ---
 title: 3rd International Workshop on Agile Methods for Information Systems Engineering (Agil-ISE24) at CAiSE24 organized by Saint Louis University (USA), KU Leuven (LIRIS - campus Brussels) and UGent Business Informatics
-date: '2024-11-17T00:00:00+00:00'
+date: '2023-11-17T00:00:00+00:00'
 author: 'Geert Poels'
 categories: news
 excerpt_separator: <!--more-->
