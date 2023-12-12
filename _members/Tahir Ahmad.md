@@ -2,7 +2,7 @@
 name: Tahir Ahmad 
 group: Affiliated Post-Doctoral Researcher
 order: 3
-position: Innovation Manager at Flanders Make / Machines & Factories
+position: Affiliated Post-Doctoral Researcher
 photo: Affiliated Post-doc tahir ahmad.jpg
 email: tahir.ahmad@ugent.be
 linkedin_username: tahir-ahmad-phd-7313185b
