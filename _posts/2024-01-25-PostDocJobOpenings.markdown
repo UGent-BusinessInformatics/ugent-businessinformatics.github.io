@@ -16,8 +16,9 @@ The other position is in the area of <b>Business/Enterprise Modelling/Architectu
 Both positions involve supporting the research, education, and scientific services of the professorial staff of the UGent Business Informatics group whilst strengthening the academic CV of the postdoctoral researcher. A minimum of 70% of the assignment will be dedicated to research.
 
 To apply to these positions see
-Business/Data Analytics (deadline 6 February 2024): <https://jobs.ugent.be/job/Ghent-Postdoctoral-researcher-9000/786752102/>
-Business/Enterprise Modelling/Architecture (deadline 30 January 2024): <https://jobs.ugent.be/job/Ghent-Post-doctoral-assistant-department-of-Business-Informatics-and-Operations-Management-9000/785636502/>
+
+<li>Business/Data Analytics (deadline 6 February 2024): <https://jobs.ugent.be/job/Ghent-Postdoctoral-researcher-9000/786752102/></li>
+<li></li>Business/Enterprise Modelling/Architecture (deadline 30 January 2024): <https://jobs.ugent.be/job/Ghent-Post-doctoral-assistant-department-of-Business-Informatics-and-Operations-Management-9000/785636502/></li>
 
 For more information, you are welcome to contact Professor Geert Poels
 <!--more-->
