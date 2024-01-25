@@ -9,9 +9,9 @@ layout: post
 
 The Business Informatics Research Group of the Department of Business Informatics and Operations Management of Ghent University (Belgium) (<https://ugent-businessinformatics.github.io>) is hiring two postdoctoral researchers. The earliest possible starting date is 1 February 2024.
 
-One position is in the area of Business/Data Analytics with applications of Process Mining, Text Mining (NLP), KDD, Deep Learning, Ontologies, and Knowledge Graphs in Manufacturing. 
+One position is in the area of <b>Business/Data Analytics</b> with applications of Process Mining, Text Mining (NLP), KDD, Deep Learning, Ontologies, and Knowledge Graphs in Manufacturing. 
 
-The other position is in the area of Business/Enterprise Modelling/Architecture and focuses on the use of digital technologies to create or enhance sustainability in production and services.
+The other position is in the area of <b>Business/Enterprise Modelling/Architecture</b> and focuses on the use of digital technologies to create or enhance sustainability in production and services.
 
 Both positions involve supporting the research, education, and scientific services of the professorial staff of the UGent Business Informatics group whilst strengthening the academic CV of the postdoctoral researcher. A minimum of 70% of the assignment will be dedicated to research.
 
