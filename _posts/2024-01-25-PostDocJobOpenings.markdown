@@ -17,8 +17,9 @@ Both positions involve supporting the research, education, and scientific servic
 
 To apply to these positions see
 
-<li>Business/Data Analytics (deadline 6 February 2024): <https://jobs.ugent.be/job/Ghent-Postdoctoral-researcher-9000/786752102/> </li>
-<li>Business/Enterprise Modelling/Architecture (deadline 30 January 2024): <https://jobs.ugent.be/job/Ghent-Post-doctoral-assistant-department-of-Business-Informatics-and-Operations-Management-9000/785636502/> </li>
+<b>Postdoc Business/Data Analytics (deadline 6 February 2024):</b> <https://jobs.ugent.be/job/Ghent-Postdoctoral-researcher-9000/786752102/>
 
-For more information, you are welcome to contact Professor Geert Poels
+<b>Postdoc Business/Enterprise Modelling/Architecture (deadline 30 January 2024):</b> <https://jobs.ugent.be/job/Ghent-Post-doctoral-assistant-department-of-Business-Informatics-and-Operations-Management-9000/785636502/>
+
+For more information, you are welcome to contact <b><i>Professor Geert Poels</i></b>
 <!--more-->
