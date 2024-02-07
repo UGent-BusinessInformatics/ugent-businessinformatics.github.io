@@ -1,6 +1,6 @@
 ---
 title: 2 job openings for post-doctoral researchers @UGent Business Informatics
-date: '2024-01-25T00:00:00+00:00'
+date: 
 author: 'Geert Poels'
 categories: news
 excerpt_separator: <!--more-->
