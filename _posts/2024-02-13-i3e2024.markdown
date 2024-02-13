@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 layout: post
 ---
 
-The 23rd IFIP Conference on e-Business, e-Services, and e-Society (I3E 2024) will be held in Heerlen, The Netherlands, on September 11-13, 2024. The conference is organized by the Department of Information Science of the Open University, The Netherlands. This is the department of Ben Roelens, PhD graduate of UGent Business Informatics and affiliated post-doctoral researcher.
+The 23rd IFIP Conference on e-Business, e-Services, and e-Society (I3E 2024) will be held in Heerlen, The Netherlands, on September 11-13, 2024. The conference is organized by the Department of Information Science of the Open University, The Netherlands. This is the department of Dr. Ben Roelens who is a conference program and organization co-chair. Ben is a PhD graduate of UGent Business Informatics and affiliated post-doctoral researcher.
 The call for papers and other relevant information can be found on the conference website, see [I3E 2024](https://www.i3e2024.com).
 
 <!--more-->
