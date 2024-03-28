@@ -1,6 +1,6 @@
 ---
 name: Pooria Jafari
-group: PhD Student
+group: PhD Graduate
 order: 20
 position: Doctoral Researcher
 photo: member-pooria-jafari.png
