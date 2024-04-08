@@ -9,5 +9,5 @@ layout: post
 
 The European Digital Kiosks network has submitted its project for EU Interreg North-Sea approval. A summary of the project can be seen in the attached poster.
 
-![](/uploads/Interreg NS_Digital Kiosks_poster.pdf)
+![](/uploads/poster.png)
 <!--more-->
