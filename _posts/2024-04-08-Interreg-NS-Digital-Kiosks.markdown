@@ -1,5 +1,5 @@
 ---
-title: UGent Business Informatics participates in the Digital Kiosks network - continued
+title: UGent Business Informatics participates in the Digital Kiosks network - poster
 date: '2024-04-08T00:00:00+00:00'
 author: 'Geert Poels'
 categories: news
