@@ -1,6 +1,6 @@
 ---
 name: Georgios Georgiadis
-group: Post-doctoral Researcher
+group: Post-doctoral Researchers
 order: 1
 email: georgios.georgiadis@ugent.be
 position: Post-doctoral Researcher
