@@ -1,8 +1,8 @@
 ---
 name: Anis Rahmawati Amna
-group: PhD Student
+group: Affiliated Post-Doctoral Researcher
 order: 1
-position: Doctoral Researcher
+position: Affiliated Post-Doctoral Researcher
 photo: member-anis-amna.png
 email: anisrahmawati.amna@ugent.be
 linkedin_username: anis-amna-30a71a52
