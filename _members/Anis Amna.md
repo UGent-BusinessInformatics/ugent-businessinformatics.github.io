@@ -2,7 +2,7 @@
 name: Anis Rahmawati Amna
 group: Affiliated Post-Doctoral Researcher
 order: 1
-position: Affiliated Post-Doctoral Researcher
+position: Lecturer at 17 Agustus 1945 University, Surabaya, Indonesia
 photo: member-anis-amna.png
 email: anisrahmawati.amna@ugent.be
 linkedin_username: anis-amna-30a71a52
