@@ -12,5 +12,6 @@ Members of the Doctoral Advisory Committee, apart from the supervisors, were Dr.
 Prof. dr. Patricia Everaert (Dept. Accounting, UGent) was Chair of the Examination Committee, which included, apart from the members of the Doctoral Advisory Committee, Dr. Kim Wuyts (PwC Belgium) and Prof. dr. Vagelis PapaKonstatinou (Law Faculty, VUB), who attended the ceremony online.
 
 The UGent Business Informatics research group congratulates Dr. Georgiadis for this exceptional achievement, being a non-funded external student for many years, and wishes him all the best as affiliated post-doctoral researcher and fellow at Skövde University, Sweden.
+
 ![](/uploads/PhDGeorgiosGeorgiadis.jpg)
 <!--more-->
