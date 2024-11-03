@@ -3,7 +3,7 @@ name: Tahir Ahmad
 group: Affiliated Post-Doctoral Researcher
 order: 2
 position: Postdoctoral Research Associate,Sheffield University,UK.
-photo: Affiliated Post-doc tahir ahmad.jpg
+photo: Snapchat-694084289.jpg
 email: tahir.ahmad@ugent.be
 linkedin_username: tahir-ahmad-phd-7313185b
 orcid_id: 0000-0003-0765-7059
