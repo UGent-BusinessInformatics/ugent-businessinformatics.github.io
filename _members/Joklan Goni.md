@@ -2,7 +2,7 @@
 name: Joklan Goni
 group: PhD Student
 order: 20
-position: Doctoral Researcher
+position: PhD Graduate - Researcher
 photo: joklan.png
 email: JoklanImeldaCamelia.Goni@ugent.be
 linkedin_username: joklan-goni-3548083b
