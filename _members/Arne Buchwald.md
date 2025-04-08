@@ -1,6 +1,6 @@
 ---
 name: Arne Buchwald
-group: Academic Staff
+group: Former Academic Staff
 order: 6
 position: Visiting Professor, Vlerick Business School
 photo: member-arne-buchwald.jpg
