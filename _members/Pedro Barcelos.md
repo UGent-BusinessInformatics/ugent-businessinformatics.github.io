@@ -1,8 +1,8 @@
 ---
 name: Pedro Paulo Favato Barcelos 
-group: Post-Doctoral Researcher
+group: Former Post-Doctoral Researcher
 order: 1
-position: Post-doctoral Researcher
+position: 
 photo: barcelos_social_image.jpg
 email: pedro.favatobarcelos@ugent.be
 linkedin_username: pedro-paulo-favato-barcelos
