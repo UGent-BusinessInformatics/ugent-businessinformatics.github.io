@@ -1,5 +1,5 @@
 ---
-name: Michael Verdonck
+name: Michaël Verdonck
 group: Academic Staff
 order: 8
 position: Visiting Professor
