@@ -2,7 +2,7 @@
 name: Pooria Jafari
 group: PhD Graduate
 order: 20
-position: Doctoral Researcher
+position: 
 photo: member-pooria-jafari.png
 email: pooria.jafari@ugent.be
 linkedin_username: pooriajafari
