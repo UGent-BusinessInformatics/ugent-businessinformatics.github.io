@@ -1,4 +1,10 @@
 # Staff list Business Informatics
+#
+# Ik vind het handig om dit bestand als ons personeelsbestand te gebruiken. Voormalige leden krijgen een 'Former' voor hun groepsnaam
+# 
+#
+# Academic Staff
+#
 # - name: Geert Poels
 #   group: Academic Staff
 # - name: Frederik Gailly
@@ -8,80 +14,104 @@
 # - name: Seppe vanden Broucke
 #   group: Academic Staff
 # - name: Jan Devos
-#   group: Academic Staff
+#   group: Former Academic Staff
 # - name: Michaël Verdonck
 #   group: Academic Staff
 # - name: Steven Mertens
 #   group: Academic Staff
 # - name: Arne Buchwald
-#   group: Academic Staff
+#   group: Former Academic Staff
+#
+# Affiliated Lectors
+#
 # - name: Len Lemeire
 #   group: Senior Lecturer
+# - name: Els Clarysse
+#   group: Senior Lecturer
+# - name: Greet Maes
+#   group: Senior Lecturer
+#
+# Post-Doctoral Researchers
+#
+# - name: Michal Hron
+#   group: Post-Doctoral Researcher
+# - name: Yannis Bertrand
+#   group: Post-Doctoral Researcher
+# - name: Pedro Barcelos
+#   group: Former Post-Doctoral Researcher
+#
+# Affiliated Post-Doctoral Researchers
 # - name: Ben Roelens
 #   group: Affiliated Post-Doctoral Researcher
 # - name: Renata Petrevska
 #   group: Affiliated Post-Doctoral Researcher
-# - name: Els Clarysse
-#   group: Senior Lecturer
-# - name: Greet Maes
-#   group: Senior Lecturer 
 # - name: Tahir Ahmad
 #   group: Affiliated Post-Doctoral Researcher
+# - name: Pooria Jafari
+#   group: Affiliated Post-Doctoral Researcher
+# - name: Anis Amna
+#   group: Affiliated Post-Doctoral Researcher
+# - name: Georgios Georgiadis
+#   group: Affiliated Post-Doctoral Researcher
+#
+# PhD Students
+#
+# - name: Abdel Aberkane
+#   group: PhD Student
+# - name: Camelia Maleki
+#   group: PhD Student
+# - name: Claus Nottbrock
+#   group: PhD Student
+# - name: Dhyana Paramita
+#   group: PhD Student
+# - name: Dirk Steuperaert
+#   group: PhD Student
+# - name: Frédéric Pattyn
+#   group: PhD Student
+# - name: Ika Nurkasanah
+#   group: PhD Student
+# - name: Joklan Goni
+#   group: PhD Student
+# - name: Jonas Van Riel
+#   group: PhD Student
+# - name: Kjel Hendriks
+#   group: PhD Student
+# - name: Simin Maleki
+#   group: PhD Student
+# - name: Steve Ahouanmenou
+#   group: PhD Student
+# - name: Thomas Derave
+#   group: PhD Student
+# - name: Tomasz Helbin
+#   group: PhD Student
+# - name: Yameng Guo
+#   group: PhD Student
+# - name: Bingbing Han
+#   group: PhD Student
+#
+# PhD Graduates
+#
 - name: Aygun Shafagatova
   group: PhD Graduate
 - name: Dries Couckuyt
   group: PhD Graduate
-# - name: Tomasz Helbin
-#   group: PhD Student
-- name: Pooria Jafari
-  group: PhD Graduate
-# - name: Steve Ahouanmenou
-#   group: PhD Student
-# - name: Joklan Goni
-#   group: PhD Student
-# Ik vind het handig om dit bestand als ons personeelsbestand te gebruiken.
-# Thomas heeft zijn profiel in een .md file geplaatst.
-# Om hem niet dubbel te tonen heb ik zijn lijntjes hier als commentaar geplaatst.
-# Geen mooie oplossing natuurlijk..
-# - name: Thomas Derave
-#   group: PhD Student
-# - name: Camelia Maleki
-#   group: PhD Student
-# - name: Abdel Aberkane
-#   group: PhD Student
-- name: Hossein Abroshan
-  group: PhD Graduate
-# - name: Dirk Steuperaert
-#   group: PhD Student
-# - name: Georgios Georgiadis
-#  group: PhD Student
-# - name: Abhimanyu Gupta
-#   group: PhD Student
-# - name: Anis Amna
-#   group: PhD Student
-# - name: Jonas Van Riel
-#   group: PhD Student
-# - name: Yameng Guo
-#   group: PhD Student
-# - name: Simin Maleki
-#   group: PhD Student
-# - name: Frédéric Pattyn
-#   group: PhD Student
-- name: Wim Laurier
-  group: PhD Graduate
-- name: Ken Decreus
-  group: PhD Graduate
 - name: Gert Loterman
   group: PhD Graduate
-- name: Maxime Bernaert
+- name: Hossein Abroshan
   group: PhD Graduate
 - name: Jan Claes
+  group: PhD Graduate
+- name: Ken Decreus
   group: PhD Graduate
 - name: Laleh Rafati
   group: PhD Graduate
 - name: Maria das Graças da Silva Teixeira
   group: PhD Graduate
+- name: Maxime Bernaert
+  group: PhD Graduate
 - name: Nadejda Alkhaldi
   group: PhD Graduate
-  
-
+- name: Wim Laurier
+  group: PhD Graduate
+#
+# 
