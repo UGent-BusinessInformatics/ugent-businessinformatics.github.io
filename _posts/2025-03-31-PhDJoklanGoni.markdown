@@ -10,5 +10,7 @@ PhD candidate Joklan Goni obtained the academic grade of PhD in Business Economi
 
 Prof. dr. Broos Maenhout was Chair of the Examination Committee, which included, apart from the supervisor, Prof. dr. Seppe vanden Broucke and Prof. dr. Michaël Verdonck of Ghent University, Prof. dr. Niels Martin of Hasselt University, Prof. Dr. Bany Aylsolmaz of the Eindhoven University of Technology, and Prof. Dr. Peter Trkman of the University of Ljubljana.
 
+The UGent Business Informatics research group congratulates Dr. Goni for this outstanding achievement and wishes her all the best in her future career as lecturer and researcher.
+
 ![](/uploads/PhDJoklanGoni.jpg)
 <!--more-->
