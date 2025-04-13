@@ -2,7 +2,7 @@
 name: Simin Maleki
 group: PhD Student
 order: 1
-position: Junior Assistant
+position: Assistant
 photo: member-simin-maleki-shamasbi.jpg
 email: simin.maleki@ugent.be
 twitter_username: siminmaleki
