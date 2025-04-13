@@ -2,7 +2,7 @@
 name: Abdel-Jaouad Aberkane
 group: PhD Student
 order: 2
-position: Junior Assistant
+position: Assistant
 photo: member-abdeljaouad-aberkane.png
 email: abdeljaouad.aberkane@ugent.be
 linkedin_username: Aberkane
