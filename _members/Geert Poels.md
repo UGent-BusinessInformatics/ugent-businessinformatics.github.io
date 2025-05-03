@@ -9,5 +9,5 @@ orcid_id: 0000-0001-9247-6150
 github_username: geertpoels
 discord_username: gpoels#8953
 telegram_username: gpoels
-link: https://professor-geert-poels-phd.jimdosite.com
+link: 
 ---
