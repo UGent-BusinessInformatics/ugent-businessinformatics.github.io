@@ -6,5 +6,5 @@ position: Associate Professor
 photo: member-amy-van-looy.png
 email: amy.vanlooy@ugent.be
 link: https://www.amyvanlooy.eu/
-orcid: 0000-0002-7992-1528
+orcid_id: 0000-0002-7992-1528
 ---
