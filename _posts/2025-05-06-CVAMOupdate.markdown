@@ -6,7 +6,7 @@ categories: news
 excerpt_separator: <!--more-->
 layout: post
 ---
-Prof. dr. Seppe vanden Broucke of UGent Business Informatics has joined the CVAMO (Cost and Value Analytics, Modelling and Optimization) Core Lab of Flanders Make @ Ghent University. 
+Prof. dr. Seppe vanden Broucke of UGent Business Informatics has joined the CVAMO (Cost and Value Analytics, Modelling and Optimization) Core Lab of Flanders Make @ Ghent University. He is welcomed by UGent Business Informatics professors Frederik Gailly and Geert Poels who were already members of CVAMO.
 
 CVAMO unites 10 professors of different deparments and research groups of the Faculty of Economics and Business Administration. CVAMO is a research group associated to the Strategic Research Center Flanders Make (www.flandersmake.be), which groups research labs from all Flemish universities. Based on high-tech research, Flanders Make offers active support to companies in the manufacturing industry to develop and optimize products and production processes.
 
