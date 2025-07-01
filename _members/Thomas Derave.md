@@ -1,8 +1,8 @@
 ---
 name: Thomas Derave
-group: PhD Student
+group: Post-Doctoral Researcher
 order: 1
-position: Assistant
+position: Post-doctoral researcher
 photo: member-thomas-derave.jpg
 email: thomas.derave@ugent.be
 orcid_id: 0000-0003-1547-8333
