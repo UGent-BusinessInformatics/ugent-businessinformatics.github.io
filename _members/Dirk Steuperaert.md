@@ -2,7 +2,7 @@
 name: Dirk Steuperaert
 group: PhD Student
 order: 4
-position: Doctoral Researcher
+position: PhD Graduate - Researcher
 photo: member-dirk-steuperaert.png
 email: dirk.steuperaert@ugent.be
 linkedin_username: dirk-steuperaert-1351761
