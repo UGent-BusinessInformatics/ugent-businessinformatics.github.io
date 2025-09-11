@@ -12,5 +12,5 @@ From left to right on the picture: Prof. dr. Ferdinand Vieider (Chair of the Exa
 
 The UGent Business Informatics research group congratulates Dr. Aberkane for this outstanding achievement.
 
-![](/uploads/PhDDefenceAbdelAberkane.jpg)
+![](/uploads/PhDDefenceAbdel.jpg)
 <!--more-->
