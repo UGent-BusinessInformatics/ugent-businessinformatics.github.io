@@ -1,6 +1,6 @@
 ---
 name: Thomas Derave
-group: Post-Doctoral Researcher
+group: Affiliated Post-Doctoral Researcher
 order: 1
 position: Post-doctoral researcher
 photo: member-thomas-derave.jpg
