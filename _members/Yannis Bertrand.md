@@ -1,8 +1,8 @@
 ---
 name: Yannis Bertrand
-group: Post-Doctoral Researcher
+group: Affiliated Post-Doctoral Researcher
 order: 1
-position: Post-doctoral researcher
+position: Assistant Professor at Hasselt University
 photo: member-yannis-bertrand.jpeg
 email: yannis.bertrand@ugent.be
 linkedin_username: yannis-bertrand-144511220
