@@ -1,8 +1,8 @@
 ---
 name: Abdel-Jaouad Aberkane
-group: PhD Student
-order: 2
-position: PhD Graduate - Assistant
+group: Post-doctoral researcher
+order: 1
+position: Post-doctoral Assistant
 photo: member-abdeljaouad-aberkane.png
 email: abdeljaouad.aberkane@ugent.be
 linkedin_username: Aberkane
