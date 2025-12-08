@@ -1,6 +1,6 @@
 ---
 name: Abdel-Jaouad Aberkane
-group: Post-doctoral researcher
+group: Post-Doctoral Researcher
 order: 1
 position: Post-doctoral assistant
 photo: member-abdeljaouad-aberkane.png
