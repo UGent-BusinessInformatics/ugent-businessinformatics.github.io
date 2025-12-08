@@ -2,7 +2,7 @@
 name: Abdel-Jaouad Aberkane
 group: Post-doctoral researcher
 order: 1
-position: Post-doctoral Assistant
+position: Post-doctoral assistant
 photo: member-abdeljaouad-aberkane.png
 email: abdeljaouad.aberkane@ugent.be
 linkedin_username: Aberkane
