@@ -1,8 +1,8 @@
 ---
 name: Joklan Goni
-group: PhD Student
+group: Affiliated Post-Doctoral Researcher
 order: 20
-position: PhD Graduate - Researcher
+position: Faculty Member School of Business and Economics, Prasetiya Mulya University
 photo: joklan.png
 email: JoklanImeldaCamelia.Goni@ugent.be
 linkedin_username: joklan-goni-3548083b
