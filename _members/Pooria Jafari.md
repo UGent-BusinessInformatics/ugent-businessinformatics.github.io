@@ -1,6 +1,6 @@
 ---
 name: Pooria Jafari
-group: Affiliated Post-Doctoral Researcher
+group: Former Affiliated Post-Doctoral Researcher
 order: 20
 position: 
 photo: member-pooria-jafari.png
