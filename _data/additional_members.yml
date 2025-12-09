@@ -47,8 +47,6 @@
 #   group: Affiliated Post-Doctoral Researcher
 # - name: Tahir Ahmad
 #   group: Affiliated Post-Doctoral Researcher
-# - name: Pooria Jafari
-#   group: Affiliated Post-Doctoral Researcher
 # - name: Anis Amna
 #   group: Affiliated Post-Doctoral Researcher
 # - name: Georgios Georgiadis
@@ -112,6 +110,8 @@
 - name: Maxime Bernaert
   group: PhD Graduate
 - name: Nadejda Alkhaldi
+  group: PhD Graduate
+- name: Pooria Jafari
   group: PhD Graduate
 - name: Wim Laurier
   group: PhD Graduate
