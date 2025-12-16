@@ -11,5 +11,5 @@ UGent Business Informatics professor Geert Poels is one of the chairs of the CAi
 
 See [CAiSE 2026 DC](https://caise26.polimi.it/?page_id=328.html) for the call for papers.
 
-![](/uploads/website_Agil-ISE2024.png)
+![](/uploads/CAiSE2026DC.png)
 <!--more-->
