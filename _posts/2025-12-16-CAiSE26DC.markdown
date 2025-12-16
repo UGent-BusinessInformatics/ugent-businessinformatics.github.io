@@ -1,1 +1,15 @@
+---
+title: Doctoral Consortium, 38th International Conference on Advanced Information Systems Engineering (CAiSE 2026), Verona, Italy, 8 - 12 June 2026
+date: '2025-12-16T00:00:00+00:00'
+author: 'Geert Poels'
+categories: news
+excerpt_separator: <!--more-->
+layout: post
+---
 
+UGent Business Informatics professor Geert Poels is one of the chairs of the CAiSE 2026 Doctoral Consortium. UGent Business Informatics has a strong connection with CAiSE and its DC, e.g., visiting professor Steven Mertens not only participated but also received the PhD award, resulting in the publication of his PhD dissertation as a Springer LNBIP volume.
+
+See [CAiSE 2026 DC](https://caise26.polimi.it/?page_id=328.html) for the call for papers.
+
+![](/uploads/website_Agil-ISE2024.png)
+<!--more-->
