@@ -1,6 +1,6 @@
 ---
 title: PhD defence of Claus Nottbrock, 12 March 2026
-date: '2026-03-17T00:00:00+00:00'
+date: '2026-03-16T00:00:00+00:00'
 author: ‘Geert Poels’
 categories: news
 excerpt_separator: <!--more-->
