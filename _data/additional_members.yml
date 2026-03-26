@@ -58,8 +58,6 @@
 #   group: PhD Student
 # - name: Camelia Maleki
 #   group: PhD Student
-# - name: Claus Nottbrock
-#   group: PhD Student
 # - name: Dhyana Paramita
 #   group: PhD Student
 # - name: Dirk Steuperaert
@@ -92,6 +90,8 @@
 - name: Abhimanyu Gupta
   group: PhD Graduate
 - name: Aygun Shafagatova
+  group: PhD Graduate
+- name: Claus Nottbrock
   group: PhD Graduate
 - name: Dries Couckuyt
   group: PhD Graduate
