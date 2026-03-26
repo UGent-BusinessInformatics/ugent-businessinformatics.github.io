@@ -1,6 +1,6 @@
 ---
 name: Claus Nottbrock
-group: PhD Student
+group: PhD Graduate
 order: 2
 position: Doctoral Researcher
 photo: member_claus_nottbrock.png
