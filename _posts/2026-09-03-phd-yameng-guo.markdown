@@ -20,7 +20,7 @@ From left to right on the picture:
 - Prof. dr. Dries Benoit (UGent)
 - Dr. ir. Nicole Berx (UGent)
 - Prof. dr. Geert Poels (UGent, Chair)
-- Prof.\ dr.\ María Óskarsdóttir
+- Prof. dr. María Óskarsdóttir (University of Southampton)
 
 The UGent Business Informatics research group congratulates Dr. Guo for this outstanding achievement.
 
